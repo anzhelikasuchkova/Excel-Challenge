@@ -38,7 +38,7 @@ I struggled with Deliverable 2 because at first I was trying to create a line ch
 
 - What can you conclude about the Outcomes based on Goals?
 
-> 1. Play campaigns tend to reach their fundraising goal when they set it to be under $5000 or between $35,000 and $45,000.
+> Play campaigns tend to reach their fundraising goal when they set it to be under $5000 or between $35,000 and $45,000.
 
 - What are some limitations of this dataset?
 
