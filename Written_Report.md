@@ -48,4 +48,4 @@ I struggled with Deliverable 2 because at first I was trying to create a line ch
 
 > We can create a column chart to visualize the findings of the Outcomes based on Launch Date. 
 
-* *Thank you for reading!* *
+*Thank you for reading!*
