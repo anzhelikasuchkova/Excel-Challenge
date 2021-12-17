@@ -15,7 +15,7 @@ The goal of this analysis is to find out how theater campaigns fare in relation 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93845867/146488573-9f5b10df-60ad-41c2-b674-6abd15548b56.png)
 
-From the above graph we can easily see that the most successful month for theater productions is May followed by June. The least successful month for theater productions is December. This calls for a conclusion that Louise should plan to launch her play in May for the best outcome. 
+From the above graph we can easily see that the most successful month for theater productions is **May** followed by **June**. The least successful month for theater productions is **December**. This calls for a conclusion that Louise should plan to launch her play in May for the best outcome. 
 
 ### Analysis of Outcomes Based on Goals
 
@@ -23,7 +23,7 @@ The goal of this analysis is to demonstrate how successful the campaigns are dep
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93845867/146490059-182209ac-978d-4650-96b1-8d9a69545add.png)
 
-As one can see, most successful campaigns tend to reach their fundraising goal when they set their goal to be either under $5000 or between $35,000 and $45,000. We know that Louise estimates her play will cost $12,000. Line chart demontrates that she has a 54% chance of being successful, which may make her rethink her strategy to increase her odds of putting on a successful play. 
+As one can see, most successful campaigns tend to reach their fundraising goal when they set their goal to be either **under $5000** or **between $35,000 and $45,000**. We know that Louise estimates her play will cost $12,000. Line chart demontrates that she has a 54% chance of being successful, which may make her rethink her strategy to increase her odds of putting on a successful play. 
 
 ### Challenges and Difficulties Encountered
 
@@ -48,4 +48,4 @@ This dataset only shows campaigns launched in 2011 and then between 2014 and 201
 
 We can create a column chart to visualize the findings of the Outcomes based on Launch Date. 
 
-Thank you for reading!
+* *Thank you for reading!* *
