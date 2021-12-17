@@ -31,6 +31,8 @@ I struggled with Deliverable 2 because at first I was trying to create a line ch
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. It's best to launch a play campaign in May and run it through the summer for the for the most successful outcome. 
+2. Play campaigns that launch in December tend to be the least successful ones. 
 
 - What can you conclude about the Outcomes based on Goals?
 
