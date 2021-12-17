@@ -33,19 +33,19 @@ I struggled with Deliverable 2 because at first I was trying to create a line ch
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. It's best to launch a play campaign in May and run it through the summer for the for the most successful outcome. 
-2. Play campaigns that launch in December tend to end up being least successful ones. 
+> 1. It's best to launch a play campaign in May and run it through the summer for the for the most successful outcome. 
+> 2. Play campaigns that launch in December tend to end up being least successful ones. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-1. Play campaigns tend to reach their fundraising goal when they set it to be under $5000 or between $35,000 and $45,000.
+> 1. Play campaigns tend to reach their fundraising goal when they set it to be under $5000 or between $35,000 and $45,000.
 
 - What are some limitations of this dataset?
 
-This dataset only shows campaigns launched in 2011 and then between 2014 and 2017, so it's missing data for 2012 through 2013, which means it's lacking some data for comparisons and might lead to inconsistent findings.
+> This dataset only shows campaigns launched in 2011 and then between 2014 and 2017, so it's missing data for 2012 through 2013, which means it's lacking some data for comparisons and might lead to inconsistent findings.
 
 - What are some other possible tables and/or graphs that we could create?
 
-We can create a column chart to visualize the findings of the Outcomes based on Launch Date. 
+> We can create a column chart to visualize the findings of the Outcomes based on Launch Date. 
 
 * *Thank you for reading!* *
