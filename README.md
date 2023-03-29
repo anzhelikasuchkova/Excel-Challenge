@@ -27,7 +27,7 @@ As one can see, most successful campaigns tend to reach their fundraising goal w
 
 ### Challenges and Difficulties Encountered
 
-I struggled with Deliverable 2 because at first I was trying to create a line chart using just the initial table I created to calculate the percentages of successful vs unsuccessful play fundrasing goals. I had a very hard time manipulating the values and creating a visual representation that matches my expectations. I later added a PivotTable to help organize my findings and that solved the issue and was way easier to do.   
+I struggled with Deliverable 2 because at first I was trying to create a line chart using just the initial table I created to calculate the percentages of successful vs unsuccessful play fundrasing goals. I had a very hard time manipulating the values and creating a visual representation that matches my expectations. I later added a PivotTable to help organize my findings and that solved the issue.   
 
 ## Results
 
