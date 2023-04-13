@@ -2,6 +2,14 @@
 
 ## Overview of Project
 
+The dataset used in the project contains information on over 4,000 Kickstarter campaigns launched between 2009 and 2017, including their campaign goals, funding amounts, categories, and launch dates. The project involves data cleaning, analysis, and visualization to provide meaningful insights.
+
+In the data cleaning stage, the project involves filtering out irrelevant columns, handling missing values, and converting data types to make the dataset ready for analysis. The cleaned data is then used to perform statistical analysis and create visualizations to understand the trends in the Kickstarter campaigns.
+
+The project explores questions like which category of campaigns were the most successful, how different pledge goals impacted the success rate, and whether there are specific launch dates that are associated with a higher success rate. To answer these questions, the project uses statistical techniques like mean, median, and standard deviation to describe the data, as well as visualizations like bar charts, line charts, and scatter plots.
+
+The project also includes a summary report of the findings, highlighting the key insights from the analysis. Overall, the Kickstarter Challenge project provides a great example of how data analytics can be used to provide insights into a specific domain, in this case, the performance of Kickstarter campaigns.
+
 ### Purpose
 
 The purpose of this project is to learn and execute all the ways one can use Microsoft Excel to organize, analyze and visualize data. 
